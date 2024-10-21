@@ -50,6 +50,10 @@ The left image displays the ground truth bounding boxes, while the right image s
 ![image](https://github.com/user-attachments/assets/e08c1846-274b-4a59-bf7b-fd06a4a4d33f)  ![image](https://github.com/user-attachments/assets/743f39d5-aa70-42fd-9bd7-29b1fd17e736)
 
 
+## Reference
+https://henry870603.medium.com/machine-learning-paper-reading-detrs-beat-yolos-on-real-time-object-detection-2992783c0415
+https://github.com/lyuwenyu/RT-DETR
+
 
    
 
